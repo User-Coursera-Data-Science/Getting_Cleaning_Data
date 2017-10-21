@@ -7,5 +7,5 @@ The data was obtened from http://archive.ics.uci.edu/ml/datasets/Human+Activity+
 ## Files: 
 
 * CodeBook.md: all information about the variables and data used in this project
-* Project.R: R Code created to tidy the data and calculate means for each variable
+* run_analysis.R: R Code created to tidy the data and calculate means for each variable
 * average_data.txt: file with the data resulted after running the R code
